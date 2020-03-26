@@ -10,4 +10,4 @@ the null counts for each column.
     - The second does this differently by first creating an array for each line
         that stores either one or zero for each column if it is null.
     - Then it merges the lines arrays together by zipping
-    - Finally it sums the values using reduce and map  the final null count.providing
+    - Finally it sums the values using reduce and map the final null count.
