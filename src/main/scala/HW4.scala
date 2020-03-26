@@ -24,7 +24,7 @@ object HW4 {
     graph.addEdge("E", "F")
     graph.addEdge("E", "Y")
 
-    print(graph.shortestPath("X", "C"));
+    print(graph.shortestPath("X", "F"));
   }
 
 }
